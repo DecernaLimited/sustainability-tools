@@ -8,10 +8,10 @@ This is early stage work. Everything here is open source and intended for the br
 
 ## Current Projects
 
-- OpenLCA IPC integration tools
-- MCP server prototypes for sustainability data
+- openLCA IPC integration tools
+- SImple IPC based tools for openLCA
 - Data preparation utilities for LCA/S-LCA workflows
 
 ## Status
 
-Active development. Documentation and examples being added as we go.
+Active development. Documentation and examples being added as we go. We haven't got very far yet....
