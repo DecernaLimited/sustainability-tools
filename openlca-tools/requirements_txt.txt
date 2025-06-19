@@ -1,4 +1,0 @@
-# openLCA Database Explorer Requirements
-# Install with: pip install -r requirements.txt
-
-olca-ipc>=2.0.0
